@@ -3,9 +3,164 @@
     "quote": "Losing a battle earns you nothing and teaches you nothing. Win your battles, or don't engage in them at all!",
     "author": "Precept One: 'Always Win Your Battles'."
   },
-  // ...（前40条内容，已省略以便展示新增内容）
   {
-    "quote": "Learn to Detect Lies.\nWhen others speak, they usually lie. Scrutinise and question them relentlessly until they reveal their deceit.",
+    "quote": "Fools laugh at everything, even at their superiors. But beware, laughter isn't harmless! Laughter spreads like a disease, and soon everyone is laughing at you.\nYou need to strike at the source of this perverse merriment quickly to stop it from spreading.",
+    "author": "Precept Two: 'Never Let Them Laugh at You'."
+  },
+  {
+    "quote": "Fighting and adventuring take their toll on your body. When you rest, your body strengthens and repairs itself. The longer you rest, the stronger you become.",
+    "author": "Precept Three: 'Always Be Rested'."
+  },
+  {
+    "quote": "The past is painful, and thinking about your past can only bring you misery. Think about something else instead, such as the future, or some food.",
+    "author": "Precept Four: 'Forget Your Past'."
+  },
+  {
+    "quote": "Is your opponent strong? No matter! Simply overcome their strength with even more strength, and they'll soon be defeated.",
+    "author": "Precept Five: 'Strength Beats Strength'."
+  },
+  {
+    "quote": "Our elders teach that our fate is chosen for us before we are even born. I disagree.",
+    "author": "Precept Six: 'Choose Your Own Fate'."
+  },
+  {
+    "quote": "When we die, do things get better for us or worse? There's no way to tell, so we shouldn't bother mourning. Or celebrating for that matter.",
+    "author": "Precept Seven: 'Mourn Not the Dead'."
+  },
+  {
+    "quote": "You can rely on nobody, and nobody will always be loyal. Therefore, nobody should be your constant companion.",
+    "author": "Precept Eight: 'Travel Alone'."
+  },
+  {
+    "quote": "Your home is where you keep your most prized possession - yourself. Therefore, you should make an effort to keep it nice and clean.",
+    "author": "Precept Nine: 'Keep Your Home Tidy'."
+  },
+  {
+    "quote": "I make sure that my weapon, 'Life Ender', is kept well-sharpened at all times. This makes it much easier to cut things.",
+    "author": "Precept Ten: 'Keep Your Weapon Sharp'."
+  },
+  {
+    "quote": "This precept explains itself.",
+    "author": "Precept Eleven: 'Mothers Will Always Betray You'."
+  },
+  {
+    "quote": "If your cloak gets wet, dry it as soon as you can. Wearing wet cloaks is unpleasant, and can lead to illness.",
+    "author": "Precept Twelve: 'Keep Your Cloak Dry'."
+  },
+  {
+    "quote": "Fear can only hold you back. Facing your fears can be a tremendous effort. Therefore, you should just not be afraid in the first place.",
+    "author": "Precept Thirteen: 'Never Be Afraid'."
+  },
+  {
+    "quote": "If someone is your superior in strength or intellect or both, you need to show them your respect. Don't ignore them or laugh at them.",
+    "author": "Precept Fourteen: 'Respect Your Superiors'."
+  },
+  {
+    "quote": "You should only use a single blow to defeat an enemy. Any more is a waste. Also, by counting your blows as you fight, you'll know how many foes you've defeated.",
+    "author": "Precept Fifteen: 'One Foe, One Blow'."
+  },
+  {
+    "quote": "Once you've made a decision, carry it out and don't look back. You'll achieve much more this way.",
+    "author": "Precept Sixteen: 'Don't Hesitate'."
+  },
+  {
+    "quote": "Others may doubt you, but there's someone you can always trust. Yourself. Make sure to believe in your own strength, and you will never falter.",
+    "author": "Precept Seventeen: 'Believe In Your Strength'."
+  },
+  {
+    "quote": "This precept also explains itself.",
+    "author": "Precept Eighteen: 'Seek Truth in the Darkness'."
+  },
+  {
+    "quote": "If you're going to attempt something, make sure you achieve it. If you do not succeed, then you have actually failed! Avoid this at all costs.",
+    "author": "Precept Nineteen: 'If You Try, Succeed'."
+  },
+  {
+    "quote": "When speaking to someone, it is courteous and also efficient to speak truthfully. Beware though that speaking truthfully may make you enemies. This is something you'll have to bear.",
+    "author": "Precept Twenty: 'Speak Only the Truth'."
+  },
+  {
+    "quote": "Don't just walk along staring at the ground! You need to look up every so often, to make sure nothing takes you by surprise.",
+    "author": "Precept Twenty-One: 'Be Aware of Your Surroundings'."
+  },
+  {
+    "quote": "As soon as I could, I left my birthplace and made my way out into the world. Do not linger in the nest. There is nothing for you there.",
+    "author": "Precept Twenty-Two: 'Abandon the Nest'."
+  },
+  {
+    "quote": "Every foe you encounter has a weak point, such as a crack in their shell or being asleep. You must constantly be alert and scrutinising your enemy to detect their weakness!",
+    "author": "Precept Twenty-Three: 'Identify the Foe's Weak Point'."
+  },
+  {
+    "quote": "Once you have identified your foe's weak point as per the previous precept, strike it. This will instantly destroy them.",
+    "author": "Precept Twenty-Four: 'Strike the Foe's Weak Point'."
+  },
+  {
+    "quote": "Be aware that your foe will try to identify your weak point, so you must protect it. The best protection? Never having a weak point in the first place.",
+    "author": "Precept Twenty-Five: 'Protect Your Own Weak Point'."
+  },
+  {
+    "quote": "When peering at certain shining surfaces, you may see a copy of your own face. The face will mimic your movements and seems similar to your own, but I don't think it can be trusted.",
+    "author": "Precept Twenty-Six: 'Don't Trust Your Reflection'."
+  },
+  {
+    "quote": "When having a meal, eat as much as you possibly can. This gives you extra energy, and means you can eat less frequently.",
+    "author": "Precept Twenty-Seven: 'Eat As Much As You Can'."
+  },
+  {
+    "quote": "If you peer into the darkness and can't see anything for too long, your mind will start to linger over old memories. Memories are to be avoided, as per Precept Four.",
+    "author": "Precept Twenty-Eight: 'Don't Peer Into the Darkness'."
+  },
+  {
+    "quote": "It's easy to get lost when travelling through winding, twisting caverns. Having a good sense of direction is like having a magical map inside of your head. Very useful.",
+    "author": "Precept Twenty-Nine: 'Develop Your Sense of Direction'."
+  },
+  {
+    "quote": "Spurn the promises of others, as they are always broken. Promises of love or betrothal are to be avoided especially.",
+    "author": "Precept Thirty: 'Never Accept a Promise'."
+  },
+  {
+    "quote": "You'll get sick if you spend too much time in filthy places. If you are staying in someone else's home, demand the highest level of cleanliness from your host.",
+    "author": "Precept Thirty-One: 'Disease Lives Inside of Dirt'."
+  },
+  {
+    "quote": "Names have power, and so to name something is to grant it power. I myself named my nail 'Life Ender'. Do not steal the name I came up with! Invent your own!",
+    "author": "Precept Thirty-Two: 'Names Have Power'."
+  },
+  {
+    "quote": "Being gallant to your enemies is no virtue! If someone opposes you, they don't deserve respect or kindness or mercy.",
+    "author": "Precept Thirty-Three: 'Show the Enemy No Respect'."
+  },
+  {
+    "quote": "This can cause restlessness and indigestion. It's just common sense.",
+    "author": "Precept Thirty-Four: 'Don't Eat Immediately Before Sleeping'."
+  },
+  {
+    "quote": "If you fall over in the darkness, it can be easy to lose your bearing and forget which way is up. Keep this precept in mind!",
+    "author": "Precept Thirty-Five: 'Up is Up, Down is Down'."
+  },
+  {
+    "quote": "Once again, this precept explains itself.",
+    "author": "Precept Thirty-Six: 'Eggshells are brittle'."
+  },
+  {
+    "quote": "If you lend and are repaid, you gain nothing. If you borrow but do not repay, you gain everything.",
+    "author": "Precept Thirty-Seven: 'Borrow, But Do Not Lend'."
+  },
+  {
+    "quote": "A mysterious force bears down on us from above, pushing us downwards. If you spend too long in the air, the force will crush you against the ground and destroy you. Beware!",
+    "author": "Precept Thirty-Eight: 'Beware the Mysterious Force'."
+  },
+  {
+    "quote": "Your body is a delicate thing and you must fuel it with great deliberation. Food must go in as fast as possible, but fluids at a slower rate.",
+    "author": "Precept Thirty-Nine: 'Eat Quickly and Drink Slowly'."
+  },
+  {
+    "quote": "Laws written by others may inconvenience you or be a burden. Let your own desires be the only law.",
+    "author": "Precept Forty: 'Obey No Law But Your Own'."
+  },
+  {
+    "quote": "When others speak, they usually lie. Scrutinise and question them relentlessly until they reveal their deceit.",
     "author": "Precept Forty-One: 'Learn to Detect Lies'."
   },
   {
