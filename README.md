@@ -1,12 +1,5 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=churchill&font=Redressed&quoteType=random&quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adr01dos/Adr01dos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adr01dos/Adr01dos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adr01dos/Adr01dos/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 <!--
 **Adr01dos/Adr01dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
