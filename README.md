@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Start+Your+Engine)](https://git.io/typing-svg)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adr01dos/Adr01dos/output/github-contribution-grid-snake-dark.svg">
