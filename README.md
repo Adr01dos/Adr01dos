@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=churchill&font=Redressed&quoteType=quote-for-the-day?quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adr01dos/Adr01dos/output/github-contribution-grid-snake-dark.svg">
