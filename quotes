@@ -1,191 +1,75 @@
 [
   {
-    "quote": "Github Quotes for README",
-    "author": "Someone under Same Sky"
+    "quote": "Losing a battle earns you nothing and teaches you nothing. Win your battles, or don't engage in them at all!",
+    "author": "Precept One: 'Always Win Your Battles'."
+  },
+  // ...（前40条内容，已省略以便展示新增内容）
+  {
+    "quote": "Learn to Detect Lies.\nWhen others speak, they usually lie. Scrutinise and question them relentlessly until they reveal their deceit.",
+    "author": "Precept Forty-One: 'Learn to Detect Lies'."
   },
   {
-    "quote": "War is as much a punishment to a punisher as it is to the sufferer",
-    "author": "Thomas Jefferson"
+    "quote": "Some will cling onto their Geo, even taking it into the dirt with them when they die. It is better to spend it when you can, so you can enjoy various things in life.",
+    "author": "Precept Forty-Two: 'Spend Geo When You Have It'."
   },
   {
-    "quote": "First solve the problem. Then write the code",
-    "author": "John Johnson"
+    "quote": "If someone asks forgiveness of you, for instance a brother of yours, always deny it. That brother, or whoever it is, doesn't deserve such a thing.",
+    "author": "Precept Forty-Three: 'Never Forgive'."
   },
   {
-    "quote": "It is harder to read code than to write it",
-    "author": "Joel Spolsky"
+    "quote": "Water is refreshing, but if you try to breathe it you are in for a nasty shock.",
+    "author": "Precept Forty-Four: 'You Can Not Breathe Water'."
   },
   {
-    "quote": "Parents wonder why the streams are bitter, when they themselves have poisoned the fountain.",
-    "author": "John Locke"
+    "quote": "This one should be obvious, but I've had others try to argue that one thing, which is clearly what it is and not something else, is actually some other thing, which it isn't. Stay on your guard!",
+    "author": "Precept Forty-Five: 'One Thing Is Not Another'."
   },
   {
-    "quote": "Pity for the guilty is treason to the innocent.",
-    "author": "Terry Goodkind, Faith of the Fallen"
+    "quote": "When young, you tend to think that the world is vast, huge, gigantic. It's only natural. Unfortunately, it's actually quite a lot smaller than that. I can say this, now having travelled everywhere in the land.",
+    "author": "Precept Forty-Six: 'The World is Smaller Than You Think'."
   },
   {
-    "quote": "Learn from the mistakes of others. You can't live long enough to make them all yourself",
-    "author": "Eleanor Roosevelt"
+    "quote": "Only you know exactly what is needed in your weapon. I myself fashioned 'Life Ender' from shellwood at a young age. It has never failed me. Nor I it.",
+    "author": "Precept Forty-Seven: 'Make Your Own Weapon'."
   },
   {
-    "quote": "All big things come from small beginnings. The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger.",
-    "author": "James Clear"
+    "quote": "Fire is a type of hot spirit that dances about recklessly. It can warm you and provide light, but it will also singe your shell if it gets too close.",
+    "author": "Precept Forty-Eight: 'Be Careful With Fire'."
   },
   {
-    "quote": "If you are insecure, guess what? The rest of the world is, too. Do not overestimate the competition and underestimate yourself. You are better than you think.",
-    "author": "Tim Ferris"
+    "quote": "Do not honour them! No one has ever made a statue of you or I, so why should we pay them any attention?",
+    "author": "Precept Forty-Nine: 'Statues are Meaningless'."
   },
   {
-    "quote": "People rarely succeed unless they have fun in what they are doing.",
-    "author": "Dale Carnegie"
-  },
-
-  {
-    "quote": "I'm on a seafood diet. I see food, and I eat it. 🍣👀🤣",
-    "author": "Someone under Same Sky"
+    "quote": "Some things in this world appear to us as puzzles. Or enigmas. If the meaning behind something is not immediately evident though, don't waste any time thinking about it. Just move on.",
+    "author": "Precept Fifty: 'Don't Linger on Mysteries'."
   },
   {
-    "quote": "I have a pet duck that's quackers about code! 🦆💻🤪",
-    "author": "Someone under Same Sky"
+    "quote": "Given the chance, everything in this world will hurt you. Friends, foes, monsters, uneven paths. Be suspicious of them all.",
+    "author": "Precept Fifty-One: 'Nothing is Harmless'."
   },
   {
-    "quote": "I'm feeling grate today, thanks to autocowreck! 🧀😄🤖",
-    "author": "Someone under Same Sky"
+    "quote": "Fathers believe that because they created us we must serve them and never exceed their capabilities. If you wish to forge your own path, you must vanquish your father. Or simply abandon him.",
+    "author": "Precept Fifty-Two: 'Beware the Jealousy of Fathers'."
   },
   {
-    "quote": "I'm so board, I need a vacation to boredwalk! 🛹🌴😬",
-    "author": "Someone under Same Sky"
+    "quote": "Every creature keeps their desires locked up inside of themselves. If you catch a glimpse of another's desires, resist the urge to claim them as your own. It will not lead you to happiness.",
+    "author": "Precept Fifty-Three: 'Do Not Steal the Desires of Others'."
   },
   {
-    "quote": "I'm a big fan of airors. They make me laugh. 😂💨🙃",
-    "author": "Someone under Same Sky"
+    "quote": "Nothing should be locked away for ever, so hold onto your keys. You will eventually return and unlock everything you hid away.",
+    "author": "Precept Fifty-Four: 'If You Lock Something Away, Keep the Key'."
   },
   {
-    "quote": "I'm not a robot, but sometimes I wish I were. 🤖🧐😅",
-    "author": "Someone under Same Sky"
+    "quote": "There are those in this world who would impose their will on others. They claim ownership over your food, your land, your body, and even your thoughts!\nThey have done nothing to earn these things. Never bow to them, and make sure to disobey their commands.",
+    "author": "Precept Fifty-Five: 'Bow to No-one'."
   },
   {
-    "quote": "I'm lovin' it when autocorrect makes me say 'I'm McAwesome!' 🍟🍔🤩",
-    "author": "Someone under Same Sky"
+    "quote": "Dreams are dangerous things. Strange ideas, not your own, can worm their way into your mind. But if you resist those ideas, sickness will wrack your body! Best not to dream at all, like me.",
+    "author": "Precept Fifty-Six: 'Do Not Dream'."
   },
   {
-    "quote": "I'm a typo expert. My keyboard hates me. 🤓⌨️😆",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm sending you a virtual bear hug! 🐻❤️🤗",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm like a kid in a candy star! 🍭⭐😁",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm so exorcised about this project! 👻💼🤣",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm in a hurry, so I'm running ate for our meeting! 🏃‍♂️🍽️😅",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm knot a spelling bee champ, but I'll buzz through this message! 🐝📝😂",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm feeling very e-motional right now. 😢📧😄",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not lazy, I'm just energy efficient! 💤🔋🙃",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not a morning person. I'm an 'it's too early' person. ⏰😴😆",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm on a roll today, like a biscuit on a butter! 🍞🤣😋",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm a huge fan of 'Friday Eve.' It's almost the weekend! 🎉🙌😄",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not a baker, but I knead you in my life. 🍞❤️🤗",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm trying to stay positive, but my battery is at 2%! 🔋😬😅",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm so egg-cited for brunch! 🍳🥂🤩",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm a big believer in 'peace, glove, and understanding.' ✌️🧤😄",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm just winging it today, like a penguin in a snowstorm! 🐧❄️🤪",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not a doctor, but I'll take a look at your 'heart attax.' ❤️👨‍⚕️🔍",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm so proud of my shelf! It has so many great books. 📚🏆😂",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm having a bad hair dey. Can't do a thing with it! 💇‍♀️🙆‍♀️😅",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm like a GPS, always 'recalculating' my life's path. 🌐🤖😆",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm all about 'self-care.' I took a selfie! 📸🤳😄",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm a real catch...a typo catching expert! 🎣📝😂",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not a chef, but I can make toast! 🍞👩‍🍳🤣",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm on a see-food diet. I see food, and I text about it! 📸🍕😂",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm a pro at making pour decisions. ☕🍷😅",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not lazy, I'm just in energy saving mode. 💤🔋🙃",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm a firm believer in 'carma.' Drive safe! 🚗🔮😄",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm feeling grape today, like a fine bottle of whine! 🍇🍷🤣",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm feeling kinda horse right now...neigh! 🐴🤪😆",
-    "author": "Someone under Same Sky"
-  },
-  {
-    "quote": "I'm not a fan of exercise, but I'm a fan of extra fries! 🍟🏋️‍♀️🤣",
-    "author": "Someone under Same Sky"
+    "quote": "Most importantly, you must commit all of these precepts to memory and obey them all unfailingly. Including this one!\nHmm. Have you truly listened to everything I've said? Let's start again and repeat the 'Fifty-Seven Precepts of Zote'.",
+    "author": "Precept Fifty-Seven: 'Obey All Precepts'."
   }
 ]
