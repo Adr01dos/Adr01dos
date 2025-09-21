@@ -1,4 +1,4 @@
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=churchill&font=Redressed&quoteType=random&quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=churchill&font=Architect&quoteType=random&quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
 
 <!--
 **Adr01dos/Adr01dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
