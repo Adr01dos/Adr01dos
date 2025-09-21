@@ -1,5 +1,6 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=vue-dark&animation=default&layout=churchill&font=Architect&quoteType=random&quotesUrl=https://github.com/Adr01dos/Adr01dos/blob/main/quotes)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&vCenter=true&multiline=true&repeat=false&width=1200&height=350&lines=Now+for+the+official+national+weather+service+forecast+for+Eastern+Massachusetts+inside+of+1-495.;including+Boston%2Cissued+at+7%3A21+PM%2CThursday%2COctober+22nd.;Tonight%3AMostly+cloudy+with+isolated+showers+until+midnight%2Cthen+mostly+clear+after+midnight.;Lows+in+the+lower+40's.;West+winds+10-15mph+with+gusts+up+to+25mph.;Chance+of+rain+20+percent.;Friday%3ASunny.Lush+color+with+highs+in+the+lower+50's.;Northwest+winds+10-15mph+with+gusts+up+to+25mph.;Friday+night%2Cmostly+clear.;Lows+in+the+mid-30's.;North+winds+10-15mph.;Saturday%3APartly+cloudy.)](https://git.io/typing-svg)
 <!--
 **Adr01dos/Adr01dos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
